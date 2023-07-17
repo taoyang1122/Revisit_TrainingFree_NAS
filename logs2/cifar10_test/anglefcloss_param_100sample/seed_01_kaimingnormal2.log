@@ -1,0 +1,2 @@
+07/17 05:34:56 PM | {'name': 'infer.tiny', 'C': 16, 'N': 5, 'arch_str': '|nor_conv_3x3~0|+|nor_conv_3x3~0|nor_conv_1x1~1|+|skip_connect~0|none~1|nor_conv_3x3~2|', 'num_classes': 10}
+07/17 05:34:56 PM | Anglefc, ParamSplit: 8 (15625), Time (s): 305.843, #Samples: 100, acc_loss: 90.87666666666667, acc_angle: 93.410, acc_angleloss: 92.24000000000001, acc_anglelossparam: 94.045
