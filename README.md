@@ -14,12 +14,19 @@ If you find our work useful in your research, please consider citing us:
 }
 ```
 
-## Environment 
+## Usage 
 
 python = 3.8.12, pytorch = 1.7.1
 
+Install NASBench following instructions in https://github.com/google-research/nasbench
+
 Download the NASbench101 data (see https://github.com/google-research/nasbench)
+
 Download the NASbench201 data (see https://github.com/D-X-Y/NAS-Bench-201)
+
+To run the experiments, use the script:
+
+`bash run_exp.sh`
 
 ## Acknowledgement
 
